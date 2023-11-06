@@ -1,0 +1,20 @@
+.side_bar{
+    background: gray;
+    height: 100vh;
+    color: white;
+    float: left;
+    width: 20%;
+    position: fixed;
+  top: 0;
+  overflow-y: auto;
+  left: 0;
+  bottom: 0;
+  padding: 60px 20px 20px 20px;
+  z-index: 999;
+}
+
+.main {
+    margin-left: 300px;
+    margin-top: 5%;
+    padding: 2rem; 
+  }
